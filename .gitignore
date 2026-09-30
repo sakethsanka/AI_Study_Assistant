@@ -13,3 +13,18 @@ __pycache__/
 
 # IDE files
 .vscode/
+# Local database
+*.db
+
+# Backup files
+app_*_backup.py
+app_demo_backup.py
+
+# Development versions
+app_rag_improved.py
+
+# Temporary test files
+test_*.py
+
+# Internship/reference files
+AI Engineer Internship Task List.pdf
